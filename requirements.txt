@@ -3,4 +3,9 @@ numpy
 pillow
 opencv-python-headless
 torch
+torchvision
 transformers
+fal-client
+ftfy
+regex
+tqdm
