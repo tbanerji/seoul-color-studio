@@ -6,6 +6,4 @@ torch
 torchvision
 transformers
 fal-client
-ftfy
-regex
-tqdm
+
